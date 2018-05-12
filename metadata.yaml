@@ -1,0 +1,37 @@
+_repo: Prometheus-ontboeid--Een-lyrisch-drama-in-vier-bedrijven_17822
+_version: 0.1.0
+alternative_title: Prometheus unbound. Dutch
+contributor:
+  translator:
+    agent_name: Gutteling, Alex.
+    alias: Gutteling, Henricus Zacharias Alexander
+    birthdate: 1884
+    deathdate: 1910
+    gutenberg_agent_id: '7623'
+    url: http://www.gutenberg.org/2009/agents/7623
+covers:
+- cover_type: archival
+  image_path: 17822-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Shelley, Percy Bysshe
+    alias: Shelley, P. B. (Percy Bysshe)
+    birthdate: 1792
+    deathdate: 1822
+    gutenberg_agent_id: '1529'
+    url: http://www.gutenberg.org/2009/agents/1529
+    wikipedia: http://en.wikipedia.org/wiki/Percy_Bysshe_Shelley
+description: ''
+gutenberg_issued: '2006-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17822'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Prometheus (Greek deity) -- Drama'
+title: 'Prometheus ontboeid: Een lyrisch drama in vier bedrijven'
+url: http://www.gutenberg.org/ebooks/17822
